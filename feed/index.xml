@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Entrasoft</title>
+	<atom:link href="https://www.entrasoft.eu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.eu/</link>
+	<description>Official™</description>
+	<lastBuildDate>Tue, 22 Oct 2019 22:02:29 +0000</lastBuildDate>
+	<language>el</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>vwr vwrv</title>
+		<link>https://www.entrasoft.eu/vwr-vwrv/</link>
+					<comments>https://www.entrasoft.eu/vwr-vwrv/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 20 Oct 2019 02:18:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://21279283561.thesite.link/company/?p=865</guid>
+
+					<description><![CDATA[<p>Το Lorem Ipsum είναι απλά ένα κείμενο χωρίς νόημα για τους επαγγελματίες της τυπογραφίας και στοιχειοθεσίας. Το Lorem Ipsum είναι το επαγγελματικό πρότυπο όσον αφορά το κείμενο χωρίς νόημα, από τον 15ο αιώνα, όταν ένας ανώνυμος τυπογράφος πήρε ένα δοκίμιο και ανακάτεψε τις λέξεις για να δημιουργήσει ένα δείγμα βιβλίου. Όχι μόνο επιβίωσε πέντε αιώνες, αλλά κυριάρχησε [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/vwr-vwrv/">vwr vwrv</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/">Entrasoft</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.entrasoft.eu/vwr-vwrv/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://www.entrasoft.eu/hello-world/</link>
+					<comments>https://www.entrasoft.eu/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 20 Oct 2019 01:39:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://21279283561.thesite.link/company/?p=1</guid>
+
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/">Entrasoft</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.entrasoft.eu/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
