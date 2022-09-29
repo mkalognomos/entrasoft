@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ρεύμα Archives &ndash; Entrasoft</title>
+	<atom:link href="https://www.entrasoft.eu/en/product-tag/reyma-en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.eu/</link>
+	<description>Official™</description>
+	<lastBuildDate>Fri, 21 Feb 2020 09:01:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>Electrician</title>
+		<link>https://www.entrasoft.eu/en/product/electrician/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2020 09:01:11 +0000</pubDate>
+				<guid isPermaLink="false">https://www.entrasoft.eu/?post_type=product&#038;p=69850</guid>
+
+					<description><![CDATA[<p>This layout pack has everything you need to outshine the competition with a brand new website for your electrical company. With cutting-edge design and practical page layouts, you can easily promote your electrical services and showcase projects with elegance. And each page is optimized to make it easy for visitors to contact your company for business.</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/en/product/electrician/">Electrician</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/en/home">Entrasoft</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

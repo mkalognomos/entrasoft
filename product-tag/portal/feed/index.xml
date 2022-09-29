@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Portal Archives &ndash; Entrasoft</title>
+	<atom:link href="https://www.entrasoft.eu/product-tag/portal/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.eu/</link>
+	<description>Official™</description>
+	<lastBuildDate>Fri, 27 Dec 2019 12:57:46 +0000</lastBuildDate>
+	<language>el</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>Portal</title>
+		<link>https://www.entrasoft.eu/product/portal/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2019 12:49:05 +0000</pubDate>
+				<guid isPermaLink="false">https://www.entrasoft.eu/?post_type=product&#038;p=61625</guid>
+
+					<description><![CDATA[<p>Ένα layout ιδανικό για Portal ή Βlog με ελαφριά φωτεινά χρώματα και απλό design. Με όλες τις απαραίτητες λειτουργίες για εύκολη εισαγωγή περιεχομένου και κατηγοριοποίηση, ευέλικτη διάταξη, SEO Optimized,προσαρμοσμένα widget και πολλά άλλα!</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/product/portal/">Portal</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/">Entrasoft</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

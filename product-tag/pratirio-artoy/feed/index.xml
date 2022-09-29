@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Πρατήριο Άρτου Archives &ndash; Entrasoft</title>
+	<atom:link href="https://www.entrasoft.eu/product-tag/pratirio-artoy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.eu/</link>
+	<description>Official™</description>
+	<lastBuildDate>Fri, 21 Feb 2020 09:50:33 +0000</lastBuildDate>
+	<language>el</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>Πρατήριο Άρτου &#8211; Αναψυκτήριο</title>
+		<link>https://www.entrasoft.eu/product/pratirio-artoy-anapsyktirio/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2020 09:44:43 +0000</pubDate>
+				<guid isPermaLink="false">https://www.entrasoft.eu/?post_type=product&#038;p=71228</guid>
+
+					<description><![CDATA[<p>Το Layout Πρατήριο Άρτου έχει όλα τα συστατικά που χρειάζεται ένας ιστοχώρος αρτοποιίας για να ανοίξει την όρεξη κάθε επισκέπτη. Έχει μια σελίδα για να παρουσιάσει το μενού σας και όμορφες προσαρμοσμένες εικόνες και τμήματα για την προβολή των υπηρεσιών σας, των προϊόντων και πολλά άλλα.</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/product/pratirio-artoy-anapsyktirio/">Πρατήριο Άρτου &#8211; Αναψυκτήριο</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/">Entrasoft</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ρεύμα Archives &ndash; Entrasoft</title>
+	<atom:link href="https://www.entrasoft.eu/product-tag/reyma/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.eu/</link>
+	<description>Official™</description>
+	<lastBuildDate>Fri, 21 Feb 2020 08:59:13 +0000</lastBuildDate>
+	<language>el</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>Ηλεκτρολογικό</title>
+		<link>https://www.entrasoft.eu/product/ilektrologiko/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2020 08:55:01 +0000</pubDate>
+				<guid isPermaLink="false">https://www.entrasoft.eu/?post_type=product&#038;p=69513</guid>
+
+					<description><![CDATA[<p>Αυτό το πακέτο διάταξης έχει όλα όσα χρειάζεστε για να ξεπεράσετε τον ανταγωνισμό με έναν ολοκαίνουργιο ιστότοπο για την ηλεκτρολογική σας εταιρεία. Με μοντέρνο σχεδιασμό και πρακτικές διατάξεις σχεδίασης σελίδων, μπορείτε να προωθήσετε εύκολα τις ηλεκτρολογικές σας υπηρεσίες και να προβάλλετε τα έργα σας με κομψότητα. Κάθε σελίδα είναι βελτιστοποιημένη ώστε να διευκολύνει τους επισκέπτες να επικοινωνήσουν με την εταιρεία σας.</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/product/ilektrologiko/">Ηλεκτρολογικό</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/">Entrasoft</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

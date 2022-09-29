@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hotel Archives &ndash; Entrasoft</title>
+	<atom:link href="https://www.entrasoft.eu/en/product-tag/hotel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.eu/</link>
+	<description>Official™</description>
+	<lastBuildDate>Fri, 27 Dec 2019 15:16:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>Hotel</title>
+		<link>https://www.entrasoft.eu/en/product/hotel/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2019 15:16:17 +0000</pubDate>
+				<guid isPermaLink="false">https://www.entrasoft.eu/?post_type=product&#038;p=64761</guid>
+
+					<description><![CDATA[<p>This Layout is a smart solution for promoting your business online. It is well organized to fully present your business. Ready to accept a complete booking system and all the functionality of a custom made website.</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/en/product/hotel/">Hotel</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/en/home">Entrasoft</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hotel Unit</title>
+		<link>https://www.entrasoft.eu/en/product/hotel-unit/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2019 12:40:01 +0000</pubDate>
+				<guid isPermaLink="false">https://www.entrasoft.eu/?post_type=product&#038;p=61468</guid>
+
+					<description><![CDATA[<p>This Layout will definitely make guests book your place, pack their bags and leave for a relaxing trip.</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/en/product/hotel-unit/">Hotel Unit</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/en/home">Entrasoft</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

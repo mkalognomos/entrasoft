@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Prints Archives &ndash; Entrasoft</title>
+	<atom:link href="https://www.entrasoft.eu/product-tag/prints-el/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.eu/</link>
+	<description>Official™</description>
+	<lastBuildDate>Fri, 21 Feb 2020 11:06:34 +0000</lastBuildDate>
+	<language>el</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>Εκτυπώσεις</title>
+		<link>https://www.entrasoft.eu/product/ektyposeis/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2020 11:00:31 +0000</pubDate>
+				<guid isPermaLink="false">https://www.entrasoft.eu/?post_type=product&#038;p=73018</guid>
+
+					<description><![CDATA[<p>Είστε έτοιμοι να προσαρμόσετε τον ιστότοπο σας με το εκπληκτικό Layout Εκτυπώσεις. Η δομή των σελίδων σε αυτό το πακέτο διάταξης είναι απλές και σας επιτρέπουν να μοιράζεστε πολύτιμο περιεχόμενο με όμορφο και σύγχρονο τρόπο. Μπορείτε επίσης να κατεβάσετε όμορφα προσαρμοσμένα εικαστικά και να τα προσαρμόσετε χωρίς περιορισμούς!</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/product/ektyposeis/">Εκτυπώσεις</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/">Entrasoft</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

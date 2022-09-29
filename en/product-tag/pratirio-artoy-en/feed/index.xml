@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Πρατήριο Άρτου Archives &ndash; Entrasoft</title>
+	<atom:link href="https://www.entrasoft.eu/en/product-tag/pratirio-artoy-en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.eu/</link>
+	<description>Official™</description>
+	<lastBuildDate>Fri, 21 Feb 2020 09:52:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>Bread Shop</title>
+		<link>https://www.entrasoft.eu/en/product/bread-shop/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2020 09:52:31 +0000</pubDate>
+				<guid isPermaLink="false">https://www.entrasoft.eu/?post_type=product&#038;p=71535</guid>
+
+					<description><![CDATA[<p>This Layout has all the ingredients a bakery website needs to open up the appetite of every visitor. It has a page to present your menu and beautiful customized images and segments to showcase your services, products, and more.</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/en/product/bread-shop/">Bread Shop</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/en/home">Entrasoft</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
