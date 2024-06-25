@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Entrasoft</title>
-	<atom:link href="https://www.entrasoft.eu/en/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.entrasoft.eu/</link>
+	<atom:link href="https://www.entrasoft.gr/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.gr/</link>
 	<description>Official™</description>
 	<lastBuildDate>Thu, 13 Oct 2022 13:39:05 +0000</lastBuildDate>
 	<language>en-US</language>
