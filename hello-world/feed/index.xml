@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Hello world!	</title>
-	<atom:link href="https://www.entrasoft.eu/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.entrasoft.eu/hello-world/</link>
+	<atom:link href="https://www.entrasoft.gr/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.gr/hello-world/</link>
 	<description>Official™</description>
 	<lastBuildDate>Tue, 22 Oct 2019 22:02:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		Από: A WordPress Commenter		</title>
-		<link>https://www.entrasoft.eu/hello-world/#comment-1</link>
+		<link>https://www.entrasoft.gr/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 01:39:12 +0000</pubDate>

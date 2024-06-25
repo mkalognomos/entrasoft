@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Portal Archives &ndash; Entrasoft</title>
-	<atom:link href="https://www.entrasoft.eu/en/product-tag/portal-en/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.entrasoft.eu/</link>
+	<atom:link href="https://www.entrasoft.gr/en/product-tag/portal-en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.entrasoft.gr/</link>
 	<description>Official™</description>
 	<lastBuildDate>Fri, 30 Sep 2022 10:46:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,14 +24,14 @@
 	<generator>https://wordpress.org/?v=5.9.4</generator>
 	<item>
 		<title>Portal</title>
-		<link>https://www.entrasoft.eu/en/product/portal-2/</link>
+		<link>https://www.entrasoft.gr/en/product/portal-2/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 27 Dec 2019 12:56:56 +0000</pubDate>
-				<guid isPermaLink="false">https://www.entrasoft.eu/?post_type=product&#038;p=61942</guid>
+				<guid isPermaLink="false">https://www.entrasoft.gr/?post_type=product&#038;p=61942</guid>
 
 					<description><![CDATA[<p>An ideal Portal or Blog layout with light colors and simple design. With all the features needed for easy content insertion and categorization, flexible layout, SEO optimized, custom widgets and more!</p>
-<p>The post <a rel="nofollow" href="https://www.entrasoft.eu/en/product/portal-2/">Portal</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.eu/en/home">Entrasoft</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.entrasoft.gr/en/product/portal-2/">Portal</a> appeared first on <a rel="nofollow" href="https://www.entrasoft.gr/en/home">Entrasoft</a>.</p>
 ]]></description>
 		
 		
